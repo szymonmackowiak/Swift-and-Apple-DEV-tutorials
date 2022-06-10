@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='zad_1_1'/>
+        <page name='zad_1_2'/>
+        <page name='zad_1_3'/>
+        <page name='zad_1_4'/>
+        <page name='zad_1_5'/>
+        <page name='zad_1_6'/>
+        <page name='zad_1_7'/>
+        <page name='zad_1_8'/>
+        <page name='zad_1_9'/>
+        <page name='zad_1_10'/>
+        <page name='zad_1_11'/>
+        <page name='zad_1_12'/>
+        <page name='zad_1_13'/>
+        <page name='zad_1_14'/>
+        <page name='zad_1_15'/>
+        <page name='zad_1_16'/>
+        <page name='zad_2_1'/>
+        <page name='zad_2_2'/>
+        <page name='zad_2_3'/>
+        <page name='zad_2_4'/>
+        <page name='zad_2_5'/>
+        <page name='zad_2_6'/>
+        <page name='zad_2_7'/>
+        <page name='roboczy'/>
+    </pages>
+</playground>
